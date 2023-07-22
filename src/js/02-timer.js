@@ -3,8 +3,6 @@ import "flatpickr/dist/flatpickr.min.css";
 import Notiflix from 'notiflix';
 
 
-
-
 // Функція для форматування чисел з переданням "0" перед однозначними значеннями
 function addLeadingZero(value) {
     return value.toString().padStart(2, '0');
