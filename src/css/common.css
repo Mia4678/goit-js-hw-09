@@ -27,16 +27,17 @@ img {
   text-align: center;
 }
 
+
+
 .field:not(:last-child){
  margin-right: 10px;
 }
+
 
 .value{
   font-size: xx-large;
   font-weight: bold;
 }
 .label{
-  font-size: smaller;
   text-transform: uppercase;
-
 }
